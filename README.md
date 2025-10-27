@@ -2,6 +2,8 @@
 
 Comprehensive demo application showcasing [@flint-org/ui](https://www.npmjs.com/package/@flint-org/ui) components in real-world applications.
 
+**🌐 Live Demo:** [https://flint-three.vercel.app](https://flint-three.vercel.app)
+
 ## 🎨 Features
 
 - **Full Dashboard** - Analytics, activity, team management, projects, reports, users, settings
@@ -16,10 +18,11 @@ Comprehensive demo application showcasing [@flint-org/ui](https://www.npmjs.com/
 
 ## 🔗 Links
 
+- 🌐 [Live Demo](https://flint-three.vercel.app)
 - 📦 [NPM Package](https://www.npmjs.com/package/@flint-org/ui)
 - 📚 [Documentation](https://docs.flint-ui.com) _(Coming Soon)_
-- 📖 [Storybook](https://flint-organtization.github.io/flint-ui)
-- 🐙 [Component Source](https://github.com/flint-organtization/flint-ui)
+- 📖 [Storybook](https://flint-organization.github.io/flint-ui)
+- 🐙 [Component Source](https://github.com/flint-organization/flint-ui)
 
 ## 🚀 Getting Started
 
@@ -232,7 +235,7 @@ pnpm start
 
 This demo showcases the `@flint-org/ui` component library. To contribute to the component library itself, visit:
 
-- [flint-ui Repository](https://github.com/flint-organtization/flint-ui)
+- [flint-ui Repository](https://github.com/flint-organization/flint-ui)
 
 To suggest improvements to this demo:
 
